@@ -1,0 +1,39 @@
+
+  .dropdown-menu-right {
+    right: 0;
+    left: auto}
+
+  .bg-lighter{
+    background-color: rgba(0,0,0,.35)}
+  
+  .box-shadow {
+    transition: 0.5s}
+  .box-shadow:hover {
+    box-shadow: 3px 5px 10px rgba(0,0,0,.5)
+    }
+    
+  .btn.disabled{
+    pointer-events: none}
+  .alert-rounded{
+    border-radius: 30px}
+  p {
+    letter-spacing: 1.5px;
+    font-size: 12px}
+  .list-card img{
+      width: 60px;
+      height: 60px }
+  .list-card {
+    width: 80px;
+  }
+  .list-group-item.active {
+    background-color:lavender;
+    border: none;
+  }
+  .text1{
+    text-align: justify;
+    line-height: 25px;
+    font-size: 15px;
+  }
+
+  
+  

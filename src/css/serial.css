@@ -1,0 +1,72 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* text-align: left; */
+    /* width: 500px; */
+    /* height: 500px; */
+    line-height: 16px;
+    /* background: #ccc; */
+    
+   
+}
+.container h1{
+    font-size: 24px;
+   font-family:  'Montserrat' !important;
+}
+.container h4{
+    font-size: 18px;
+}
+.logo{
+    width: 128px;
+    height: 141px;
+}
+.card_new{
+    box-shadow: 0 0 20px rgb(1 118 190 / 25%);
+    padding: 5px 15px 5px;
+    width: 350px;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.msg-alignment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.circle-icon-tick i {
+    font-size: 100px;
+    color: green;
+    margin-right: 10px;
+}
+.circle-icon i {
+    font-size: 100px;
+    color: red;
+    margin-right: 10px;
+}
+.msg-alignment .msg-text {
+    font-size: 18px;
+    color: rgb(69, 47, 138);
+    text-align: center;
+}
+#serial_number{
+    border: 1px solid #ccc !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    background-color: #e9ecef;
+    opacity: 1;
+}
+.form-row {
+    margin: 10px 0;
+}
+.label{
+    margin: 7px
+}
+.center{
+    text-align: center;
+}
